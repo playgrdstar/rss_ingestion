@@ -1,3 +1,3 @@
-# HTML Scraping
+# RSS Ingestion
 
-Just a super simple script to start scraping webpages.
+Just a super simple script to get data from RSS feeds.
